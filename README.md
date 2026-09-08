@@ -11,3 +11,7 @@ Preparar la estructura inicial de un proyecto utilizando control de versiones.
 
 ## Autor 
 Alejandro Zapien 
+
+## Estado del proyecto 
+ 
+Proyecto en etapa inicial.
