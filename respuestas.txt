@@ -11,4 +11,5 @@ Respuesta: _porque es un archivo local, no se almacena en la nube (guthub)______
 6. ¿Qué relación existe entre el repositorio local y el repositorio remoto? 
 Respuesta: que el local solo puedes verlo tu, el remoto puede verlo cualquier persona____________________________________________________________________________ 
 7. ¿Qué diferencia existe entre ejecutar commit y ejecutar push? 
-Respuesta: commit se usa cuando quieres que tus archivos esten actualizados respecto a los cambios que hiciste, push se usa para subirlos a github y que se pueda ver desde cualquier dispositivo____________________________________________
+Respuesta: commit se usa cuando quieres que tus archivos esten actualizados respecto a los cambios que hiciste, push se usa para subirlos a github y que se pueda ver desde cualquier dispositivo_____
+_______________________________________
